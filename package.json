@@ -5,7 +5,8 @@
   "cordova": {
     "id": "cordova-plugin-applovin-mediation",
     "platforms": [
-      "android"
+      "android",
+      "ios"
     ]
   },
   "repository": {
