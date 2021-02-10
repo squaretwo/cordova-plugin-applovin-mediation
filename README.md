@@ -1,0 +1,1 @@
+# AppLovin Max mediation plugin

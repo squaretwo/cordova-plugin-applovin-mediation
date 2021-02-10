@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-applovin-mediation",
+  "version": "0.0.1",
+  "description": "AppLovin Max mediation plugin",
+  "cordova": {
+    "id": "cordova-plugin-applovin-mediation",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valsap/cordova-plugin-applovin-mediation.git"
+  },
+  "deprecated": false,
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": {
+    "name": "SquareTwo"
+  }
+}
