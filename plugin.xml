@@ -26,6 +26,7 @@
                 <pod name="AppLovinMediationFyberAdapter" />
                 <pod name="AppLovinMediationTapjoyAdapter" />
                 <pod name="AppLovinMediationUnityAdsAdapter" />
+                <pod name="AppLovinMediationIronSourceAdapter" />
             </pods>
         </podspec>
 
