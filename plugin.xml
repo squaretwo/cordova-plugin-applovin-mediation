@@ -481,6 +481,30 @@
                   <key>SKAdNetworkIdentifier</key>
                   <string>x44k69ngh6.skadnetwork</string>
               </dict>
+              <dict>
+                <key>SKAdNetworkIdentifier</key>
+                <string>g2y4y55b64.skadnetwork</string>
+              </dict>
+              <dict>
+                <key>SKAdNetworkIdentifier</key>
+                <string>74b6s63p6l.skadnetwork</string>
+              </dict>
+              <dict>
+                <key>SKAdNetworkIdentifier</key>
+                <string>84993kbrcf.skadnetwork</string>
+              </dict>
+              <dict>
+                <key>SKAdNetworkIdentifier</key>
+                <string>pwdxu55a5a.skadnetwork</string>
+              </dict>
+              <dict>
+                <key>SKAdNetworkIdentifier</key>
+                <string>6964rsfnh4.skadnetwork</string>
+              </dict>
+              <dict>
+                <key>SKAdNetworkIdentifier</key>
+                <string>a7xqa6mtl2.skadnetwork</string>
+              </dict>
             </array>
         </config-file>
     </platform>
