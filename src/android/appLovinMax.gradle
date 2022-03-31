@@ -6,7 +6,7 @@ repositories {
     maven { url "https://s3.amazonaws.com/smaato-sdk-releases/" }
     maven { url "https://android-sdk.is.com/" }
     maven { url "https://sdk.tapjoy.com" }
-    maven { url "https://hyprmx.jfrog.io/artifactory/hyprmx" }
+    mavenCentral()
 }
 
 android {
