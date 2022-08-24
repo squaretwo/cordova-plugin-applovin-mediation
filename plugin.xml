@@ -27,7 +27,7 @@
                 <pod name="AppLovinMediationTapjoyAdapter" />
                 <pod name="AppLovinMediationUnityAdsAdapter" />
                 <pod name="AppLovinMediationIronSourceAdapter" spec="~> 7.1.6.1.0" />
-                <pod name="AppLovinMediationHyprMXAdapter" />
+                <pod name="AppLovinMediationHyprMXAdapter" spec="~> 6.0.3.0" />
             </pods>
         </podspec>
 
